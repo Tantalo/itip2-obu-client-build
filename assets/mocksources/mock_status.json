@@ -1,0 +1,14 @@
+{
+  "isLuciAttivato": true,
+  "spinaSxStatus": "alzata",
+  "spinaDownStatus": "alzata",
+  "spinaDxStatus": "alzata",
+  "isBarraDentro": false,
+  "isBarraFuori": true,
+  "isPtoOn": true,
+  "isFrenoManoOn": true,
+  "isLimitatoreOn": false,
+  "isTeloChiuso": true,
+  "isTeloAperto": false,
+  "isFaroOn": true
+}
