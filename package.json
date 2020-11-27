@@ -1,5 +1,8 @@
 {
     "name": "@tantalo/ngx-obu-client",
     "version": "0.0.2",
-    "files": ["obu-client.js", "styles.css"]
+    "files": ["obu-client.js", "styles.css"],
+    "directories":{
+        "assets": "assets"
+    }
 }
