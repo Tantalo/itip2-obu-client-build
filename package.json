@@ -1,8 +1,10 @@
 {
     "name": "@tantalo/ngx-obu-client",
-    "version": "0.0.3",
-    "files": ["obu-client.js", "styles.css"],
-    "directories":{
-        "assets": "assets"
-    }
+    "version": "0.0.4",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tantalo/itip2-obu-client-build.git"
+    },
+    "author": "Tantalo Christian Alessandro",
+    "license": "MIT"
 }
